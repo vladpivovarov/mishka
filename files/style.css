@@ -1146,3 +1146,7 @@ p.nopad {
 	font-style: italic;
 	padding: 5px;
 }
+
+.deliv4 li {
+	min-height: 100px;
+}
